@@ -1,0 +1,4 @@
+smolagents[litellm]>=1.25.0
+anthropic>=0.40.0
+arize-otel>=0.10.0
+openinference-instrumentation-smolagents>=0.1.31
